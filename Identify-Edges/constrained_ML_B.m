@@ -1,3 +1,6 @@
+% Copyright © 2013 Cai et al; © 2019 North Carolina State University. All rights reserved.
+% “lignin_modelSML” by Cai X, Bazerque JA, Giannakis GB and North Carolina State University is licensed under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/us/legalcode)
+
 function [B,me]=constrained_ML_B(B,S,Y,K,sigma2,params)
 
 if(nargin==5)
