@@ -1,6 +1,6 @@
 # Monolignol-Cross-Regulation-Model
 
-This is the code associated with the article: Matthews ML, Wang JP, Sederoff R, Chiang VL, Williams CM, Modeling cross-regulatory influences on monolignol transcripts and proteins under single and combinatorial gene knockdowns in <i>Populus trichocarpa</i>
+This is the code associated with the article: Matthews ML, Wang JP, Sederoff R, Chiang VL, Williams CM (2020) Modeling cross-regulatory influences on monolignol transcripts and proteins under single and combinatorial gene knockdowns in <i>Populus trichocarpa</i>. PLoS Computational Biology 16(4):e1007197. https://doi.org/10.1371/journal.pcbi.1007197
 
 
 There are two parts to this code:
